@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/elana/BootCamp-cls/ sortPersonStruct/main.c
+stdio.h
+-
+stdlib.h
+/home/elana/BootCamp-cls/ sortPersonStruct/stdlib.h
+sort.h
+/home/elana/BootCamp-cls/ sortPersonStruct/sort.h
+person.h
+/home/elana/BootCamp-cls/ sortPersonStruct/person.h
+
+/home/elana/BootCamp-cls/ sortPersonStruct/person.h
+
+/home/elana/BootCamp-cls/ sortPersonStruct/sort.h
+stddef.h
+-
+person.h
+/home/elana/BootCamp-cls/ sortPersonStruct/person.h
+

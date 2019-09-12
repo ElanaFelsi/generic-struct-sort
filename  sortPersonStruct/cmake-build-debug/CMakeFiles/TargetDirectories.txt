@@ -1,0 +1,3 @@
+/home/elana/BootCamp-cls/ sortPersonStruct/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/elana/BootCamp-cls/ sortPersonStruct/cmake-build-debug/CMakeFiles/_sortPersonStruct.dir
+/home/elana/BootCamp-cls/ sortPersonStruct/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/_sortPersonStruct.dir/main.c.o CMakeFiles/_sortPersonStruct.dir/sort.c.o CMakeFiles/_sortPersonStruct.dir/person.c.o  -o _sortPersonStruct 
